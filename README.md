@@ -1,6 +1,6 @@
 ## CryptoHistoricDownloader
 
-This program can automatize downloading multiple tickers from Binance to CSV files.
+This program can automatically download multiple tickers from Binance to CSV files.
 
 #### Installation
 
